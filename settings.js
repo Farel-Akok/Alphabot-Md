@@ -18,12 +18,12 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Bot Xizz" //namabot kalian
+global.botname = "Miki Bot" //namabot kalian
 global.ownername= "Rellz" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "farrelups@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6285781468932" // nomor wa kalian
 global.ownernomerr = "+6285781468932" //nmr wa kalian
